@@ -1,0 +1,2 @@
+# MinaBashSkript
+Kurs DevOps17 
